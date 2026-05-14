@@ -103,15 +103,8 @@ section{
     font-size: 20px;
 }
 
+@media screen and (max-widht:650px){
+    
+}
 
 
-
-
-/* 1 Padding: 44px --> aplica para os 4 lados 
-   
-   2 padding: 44px 24px -->  1)cima e baixo  2)esquerda e direita
-   
-   3 padding: 44px 24px 23px --> 1)cima   2)esquerda e direita  3)baixo 
-   
-   4 padding: 44px 24px 23px 20px --> 1)cima  2)direita  3)baixo  4)esquerda
-/*   
