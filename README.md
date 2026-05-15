@@ -1,7 +1,7 @@
 # 💱 Currency - Convert
 
 <p align="center">
-  <img src="https://github.com/vitormarinho88/CurrencyConvert/blob/main/CURRENCY%20-%20PROJECT/assets/Girl-money.gif?raw=true" alt="Currency Convert Preview" width="400"/>
+  <img src="https://github.com/vitormarinho88/CurrencyConvert/blob/main/assets/Girl-money.gif?raw=true" alt="Currency Convert Preview" width="400"/>
 </p>
 
 <p align="center">
